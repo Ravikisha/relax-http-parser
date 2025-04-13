@@ -7,6 +7,10 @@
     "name": "relax-http-parser",
     "triples": {}
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravikisha/relax-http-parser.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "@napi-rs/cli": "^2.18.4",

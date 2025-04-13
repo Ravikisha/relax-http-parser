@@ -11,6 +11,10 @@
   "files": [
     "relax-http-parser.darwin-x64.node"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravikisha/relax-http-parser.git"
+  },
   "license": "MIT",
   "engines": {
     "node": ">= 10"
